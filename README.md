@@ -14,11 +14,11 @@ VirtualPet class:
 * tick() - increases hunger and thirst
 
 VirtualPetTest tests:
-* hunger_DecreaseWhenFeedOccurs()
-* hunger_IncreaseByTick()
-* thirst_DecreaseWhenWaterOccurs()
-* thirst_IncreaseByTick()
-* thirst_IncreaseWhenFeedOccurs()
+* hunger_DecreasesWhenFeedOccurs()
+* hunger_IncreasesByTick()
+* thirst_DecreasesWhenWaterOccurs()
+* thirst_IncreasesByTick()
+* thirst_IncreasesWhenFeedOccurs()
 * waste_DecreasesWhenPottyOccurs()
 * waste_IncreasesWhenFeedOccurs()
 * waste_IncreasesWhenWaterOccurs()
