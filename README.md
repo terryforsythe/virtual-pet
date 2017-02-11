@@ -13,7 +13,7 @@ VirtualPet class:
 * potty() - decreases waste
 * tick() - increases hunger and thirst
 
-VirtualPetTest tests:
+VirtualPetTest class tests:
 * hunger_DecreasesWhenFeedOccurs()
 * hunger_IncreasesByTick()
 * thirst_DecreasesWhenWaterOccurs()
