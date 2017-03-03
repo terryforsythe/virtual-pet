@@ -8,7 +8,7 @@ public class VirtualPetTest {
 
 	@Before
 	public void setup() {
-		underTest = new VirtualPet("Effauhf");
+		underTest = new VirtualPet("foo");
 	}
 
 	@Test
